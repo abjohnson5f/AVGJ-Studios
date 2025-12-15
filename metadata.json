@@ -1,0 +1,5 @@
+{
+  "name": "StoryBoard AI Studio",
+  "description": "A Frame.io-inspired digital asset management system for storyboarding. Organize projects and scenes, and generate assets using Gemini AI.",
+  "requestFramePermissions": []
+}
